@@ -1,0 +1,491 @@
+STAR version=2.7.5a
+STAR compilation time,server,dir=Tue Jun 16 12:17:16 EDT 2020 vega:/home/dobin/data/STAR/STARcode/STAR.master/source
+##### Command Line:
+/home/dgold/Programs/STAR-2.7.5a/bin/Linux_x86_64/STAR --runThreadN 16 --genomeDir ../2_Star_Ref --readFilesIn ./../1_Clean_Data/OA2_B.trimmed_clean.fastq --outFilterType BySJout --outFilterMultimapNmax 20 --alignSJoverhangMin 8 --alignSJDBoverhangMin 1 --outFilterMismatchNmax 999 --outFilterMismatchNoverLmax 0.1 --alignIntronMin 20 --alignIntronMax 1000000 --alignMatesGapMax 1000000 --outSAMattributes NH HI NM MD --outSAMtype BAM SortedByCoordinate --outFileNamePrefix OA2_B
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 OA2_B
+###### All USER parameters from Command Line:
+runThreadN                    16     ~RE-DEFINED
+genomeDir                     ../2_Star_Ref     ~RE-DEFINED
+readFilesIn                   ./../1_Clean_Data/OA2_B.trimmed_clean.fastq        ~RE-DEFINED
+outFilterType                 BySJout     ~RE-DEFINED
+outFilterMultimapNmax         20     ~RE-DEFINED
+alignSJoverhangMin            8     ~RE-DEFINED
+alignSJDBoverhangMin          1     ~RE-DEFINED
+outFilterMismatchNmax         999     ~RE-DEFINED
+outFilterMismatchNoverLmax    0.1     ~RE-DEFINED
+alignIntronMin                20     ~RE-DEFINED
+alignIntronMax                1000000     ~RE-DEFINED
+alignMatesGapMax              1000000     ~RE-DEFINED
+outSAMattributes              NH   HI   NM   MD        ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+outFileNamePrefix             OA2_B     ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        16
+genomeDir                         ../2_Star_Ref
+readFilesIn                       ./../1_Clean_Data/OA2_B.trimmed_clean.fastq   
+outFileNamePrefix                 OA2_B
+outSAMtype                        BAM   SortedByCoordinate   
+outSAMattributes                  NH   HI   NM   MD   
+outFilterType                     BySJout
+outFilterMultimapNmax             20
+outFilterMismatchNmax             999
+outFilterMismatchNoverLmax        0.1
+alignIntronMin                    20
+alignIntronMax                    1000000
+alignMatesGapMax                  1000000
+alignSJoverhangMin                8
+alignSJDBoverhangMin              1
+
+-------------------------------
+##### Final effective command line:
+/home/dgold/Programs/STAR-2.7.5a/bin/Linux_x86_64/STAR   --runThreadN 16   --genomeDir ../2_Star_Ref   --readFilesIn ./../1_Clean_Data/OA2_B.trimmed_clean.fastq      --outFileNamePrefix OA2_B   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes NH   HI   NM   MD      --outFilterType BySJout   --outFilterMultimapNmax 20   --outFilterMismatchNmax 999   --outFilterMismatchNoverLmax 0.1   --alignIntronMin 20   --alignIntronMax 1000000   --alignMatesGapMax 1000000   --alignSJoverhangMin 8   --alignSJDBoverhangMin 1
+----------------------------------------
+
+Number of fastq files for each mate = 1
+WARNING: --limitBAMsortRAM=0, will use genome size as RAM limit for BAM sorting
+Finished loading and checking parameters
+Reading genome generation parameters:
+### /home/dgold/Programs/STAR-2.7.5a/bin/Linux_x86_64/STAR   --runMode genomeGenerate   --runThreadN 16   --genomeDir ./   --genomeFastaFiles GCF_902806645.1_cgigas_uk_roslin_v1_genomic.fna      --sjdbGTFfile GCF_902806645.1_cgigas_uk_roslin_v1_genomic.gff   --sjdbGTFtagExonParentTranscript Parent   --sjdbOverhang 100
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              GCF_902806645.1_cgigas_uk_roslin_v1_genomic.fna        ~RE-DEFINED
+genomeSAindexNbases           14     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  100     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   GCF_902806645.1_cgigas_uk_roslin_v1_genomic.gff     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscriptParent     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               739145744   5811044823        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 236
+1	NC_047559.1	55785328	0
+2	NC_047560.1	73222313	55836672
+3	NC_047561.1	58319100	129236992
+4	NC_047562.1	53127865	187695104
+5	NC_047563.1	73550375	240910336
+6	NC_047564.1	60151564	314572800
+7	NC_047565.1	62107823	374865920
+8	NC_047566.1	58462999	436994048
+9	NC_047567.1	37089910	495714304
+10	NC_047568.1	57541580	532938752
+11	NW_022994773.1	129571	590610432
+12	NW_022994774.1	1185781	590872576
+13	NW_022994775.1	128451	592183296
+14	NW_022994776.1	124569	592445440
+15	NW_022994777.1	123505	592707584
+16	NW_022994778.1	761972	592969728
+17	NW_022994779.1	111600	593756160
+18	NW_022994780.1	109880	594018304
+19	NW_022994781.1	109004	594280448
+20	NW_022994782.1	105193	594542592
+21	NW_022994783.1	103107	594804736
+22	NW_022994784.1	1334230	595066880
+23	NW_022994785.1	99559	596639744
+24	NW_022994786.1	93417	596901888
+25	NW_022994787.1	85616	597164032
+26	NW_022994788.1	84435	597426176
+27	NW_022994789.1	725421	597688320
+28	NW_022994790.1	78344	598474752
+29	NW_022994791.1	77172	598736896
+30	NW_022994792.1	66789	598999040
+31	NW_022994793.1	66084	599261184
+32	NW_022994794.1	699037	599523328
+33	NW_022994795.1	63125	600309760
+34	NW_022994796.1	62774	600571904
+35	NW_022994797.1	60186	600834048
+36	NW_022994798.1	59881	601096192
+37	NW_022994799.1	680695	601358336
+38	NW_022994800.1	57426	602144768
+39	NW_022994801.1	56398	602406912
+40	NW_022994802.1	52255	602669056
+41	NW_022994803.1	47562	602931200
+42	NW_022994804.1	45312	603193344
+43	NW_022994805.1	654836	603455488
+44	NW_022994806.1	34204	604241920
+45	NW_022994807.1	33063	604504064
+46	NW_022994808.1	32339	604766208
+47	NW_022994809.1	621026	605028352
+48	NW_022994810.1	30983	605814784
+49	NW_022994811.1	28060	606076928
+50	NW_022994812.1	26205	606339072
+51	NW_022994813.1	609159	606601216
+52	NW_022994814.1	18830	607387648
+53	NW_022994815.1	549086	607649792
+54	NW_022994816.1	985078	608436224
+55	NW_022994817.1	2254	609484800
+56	NW_022994818.1	1361	609746944
+57	NW_022994819.1	734241	610009088
+58	NW_022994820.1	658371	610795520
+59	NW_022994821.1	546250	611581952
+60	NW_022994822.1	614137	612368384
+61	NW_022994823.1	196267	613154816
+62	NW_022994824.1	461872	613416960
+63	NW_022994825.1	345626	613941248
+64	NW_022994826.1	153136	614465536
+65	NW_022994827.1	85676	614727680
+66	NW_022994828.1	316174	614989824
+67	NW_022994829.1	476514	615514112
+68	NW_022994830.1	534456	616038400
+69	NW_022994831.1	527944	616824832
+70	NW_022994832.1	513312	617611264
+71	NW_022994833.1	507370	618135552
+72	NW_022994834.1	496827	618659840
+73	NW_022994835.1	482992	619184128
+74	NW_022994836.1	471557	619708416
+75	NW_022994837.1	686402	620232704
+76	NW_022994838.1	445523	621019136
+77	NW_022994839.1	505355	621543424
+78	NW_022994840.1	408464	622067712
+79	NW_022994841.1	392916	622592000
+80	NW_022994842.1	346530	623116288
+81	NW_022994843.1	346498	623640576
+82	NW_022994844.1	984115	624164864
+83	NW_022994845.1	334217	625213440
+84	NW_022994846.1	330898	625737728
+85	NW_022994847.1	310459	626262016
+86	NW_022994848.1	975996	626786304
+87	NW_022994849.1	299473	627834880
+88	NW_022994850.1	724080	628359168
+89	NW_022994851.1	284019	629145600
+90	NW_022994852.1	380988	629669888
+91	NW_022994853.1	271986	630194176
+92	NW_022994854.1	271335	630718464
+93	NW_022994855.1	270660	631242752
+94	NW_022994856.1	269814	631767040
+95	NW_022994857.1	255287	632291328
+96	NW_022994858.1	250265	632553472
+97	NW_022994859.1	249553	632815616
+98	NW_022994860.1	243901	633077760
+99	NW_022994861.1	243737	633339904
+100	NW_022994862.1	230837	633602048
+101	NW_022994863.1	896916	633864192
+102	NW_022994864.1	230075	634912768
+103	NW_022994865.1	3851109	635174912
+104	NW_022994866.1	222500	639107072
+105	NW_022994867.1	221461	639369216
+106	NW_022994868.1	214429	639631360
+107	NW_022994869.1	208222	639893504
+108	NW_022994870.1	984156	640155648
+109	NW_022994871.1	303113	641204224
+110	NW_022994872.1	195767	641728512
+111	NW_022994873.1	192086	641990656
+112	NW_022994874.1	189815	642252800
+113	NW_022994875.1	180076	642514944
+114	NW_022994876.1	178302	642777088
+115	NW_022994877.1	371905	643039232
+116	NW_022994878.1	173440	643563520
+117	NW_022994879.1	171659	643825664
+118	NW_022994880.1	169219	644087808
+119	NW_022994881.1	520634	644349952
+120	NW_022994882.1	167015	644874240
+121	NW_022994883.1	166538	645136384
+122	NW_022994884.1	165345	645398528
+123	NW_022994885.1	161001	645660672
+124	NW_022994886.1	803096	645922816
+125	NW_022994887.1	153941	646971392
+126	NW_022994888.1	153236	647233536
+127	NW_022994889.1	151090	647495680
+128	NW_022994890.1	226113	647757824
+129	NW_022994891.1	142569	648019968
+130	NW_022994892.1	139519	648282112
+131	NW_022994893.1	137056	648544256
+132	NW_022994894.1	135750	648806400
+133	NW_022994895.1	800838	649068544
+134	NW_022994896.1	123475	650117120
+135	NW_022994897.1	543823	650379264
+136	NW_022994898.1	63957	651165696
+137	NW_022994899.1	135656	651427840
+138	NW_022994900.1	158606	651689984
+139	NW_022994901.1	138885	651952128
+140	NW_022994902.1	213710	652214272
+141	NW_022994903.1	31917	652476416
+142	NW_022994904.1	192304	652738560
+143	NW_022994905.1	122499	653000704
+144	NW_022994906.1	24192	653262848
+145	NW_022994907.1	80452	653524992
+146	NW_022994908.1	34710	653787136
+147	NW_022994909.1	80340	654049280
+148	NW_022994910.1	59023	654311424
+149	NW_022994911.1	90223	654573568
+150	NW_022994912.1	80828	654835712
+151	NW_022994913.1	18545	655097856
+152	NW_022994914.1	79317	655360000
+153	NW_022994915.1	76490	655622144
+154	NW_022994916.1	77779	655884288
+155	NW_022994917.1	39112	656146432
+156	NW_022994918.1	404750	656408576
+157	NW_022994919.1	196227	656932864
+158	NW_022994920.1	39174	657195008
+159	NW_022994921.1	323512	657457152
+160	NW_022994922.1	83186	657981440
+161	NW_022994923.1	61906	658243584
+162	NW_022994924.1	127844	658505728
+163	NW_022994925.1	61549	658767872
+164	NW_022994926.1	81940	659030016
+165	NW_022994927.1	162546	659292160
+166	NW_022994928.1	69385	659554304
+167	NW_022994929.1	46878	659816448
+168	NW_022994930.1	145484	660078592
+169	NW_022994931.1	118323	660340736
+170	NW_022994932.1	123881	660602880
+171	NW_022994933.1	29995	660865024
+172	NW_022994934.1	161585	661127168
+173	NW_022994935.1	43805	661389312
+174	NW_022994936.1	297039	661651456
+175	NW_022994937.1	490709	662175744
+176	NW_022994938.1	203969	662700032
+177	NW_022994939.1	324655	662962176
+178	NW_022994940.1	218172	663486464
+179	NW_022994941.1	19044	663748608
+180	NW_022994942.1	61061	664010752
+181	NW_022994943.1	289459	664272896
+182	NW_022994944.1	261312	664797184
+183	NW_022994945.1	625727	665059328
+184	NW_022994946.1	333635	665845760
+185	NW_022994947.1	135775	666370048
+186	NW_022994948.1	858184	666632192
+187	NW_022994949.1	121447	667680768
+188	NW_022994950.1	33519	667942912
+189	NW_022994951.1	187731	668205056
+190	NW_022994952.1	219001	668467200
+191	NW_022994953.1	45830	668729344
+192	NW_022994954.1	129811	668991488
+193	NW_022994955.1	365466	669253632
+194	NW_022994956.1	433943	669777920
+195	NW_022994957.1	201146	670302208
+196	NW_022994958.1	172809	670564352
+197	NW_022994959.1	64928	670826496
+198	NW_022994960.1	137501	671088640
+199	NW_022994961.1	155459	671350784
+200	NW_022994962.1	175997	671612928
+201	NW_022994963.1	286963	671875072
+202	NW_022994964.1	245988	672399360
+203	NW_022994965.1	30682	672661504
+204	NW_022994966.1	514743	672923648
+205	NW_022994967.1	56505	673447936
+206	NW_022994968.1	91994	673710080
+207	NW_022994969.1	256332	673972224
+208	NW_022994970.1	36429	674234368
+209	NW_022994971.1	30384	674496512
+210	NW_022994972.1	189740	674758656
+211	NW_022994973.1	66576	675020800
+212	NW_022994974.1	36592	675282944
+213	NW_022994975.1	74180	675545088
+214	NW_022994976.1	30109	675807232
+215	NW_022994977.1	141708	676069376
+216	NW_022994978.1	113692	676331520
+217	NW_022994979.1	83790	676593664
+218	NW_022994980.1	6557	676855808
+219	NW_022994981.1	62922	677117952
+220	NW_022994982.1	153818	677380096
+221	NW_022994983.1	79855	677642240
+222	NW_022994984.1	42847	677904384
+223	NW_022994985.1	190097	678166528
+224	NW_022994986.1	135148	678428672
+225	NW_022994987.1	316463	678690816
+226	NW_022994988.1	28442	679215104
+227	NW_022994989.1	147472	679477248
+228	NW_022994990.1	30511	679739392
+229	NW_022994991.1	237136	680001536
+230	NW_022994992.1	107548	680263680
+231	NW_022994993.1	225226	680525824
+232	NW_022994994.1	24264	680787968
+233	NW_022994995.1	63071	681050112
+234	NW_022994996.1	98197	681312256
+235	NW_022994997.1	297219	681574400
+236	NW_022994998.1	55042	682098688
+--sjdbOverhang = 100 taken from the generated genome
+Started loading the genome: Mon Apr 19 15:26:45 2021
+
+Genome: size given as a parameter = 739145744
+SA: size given as a parameter = 5811044823
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=14  nSAi=357913940
+nGenome=739145744;  nSAbyte=5811044823
+GstrandBit=32   SA number of indices=1408738138
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 739145744 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 739145744 bytes
+SA file size: 5811044823 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 5811044823 bytes
+Loading SAindex ... done: 1565873619 bytes
+Finished loading the genome: Mon Apr 19 15:26:49 2021
+
+Processing splice junctions database sjdbN=282512,   pGe.sjdbOverhang=100 
+To accommodate alignIntronMax=1000000 redefined winBinNbits=18
+To accommodate alignIntronMax=1000000 and alignMatesGapMax=1000000, redefined winFlankNbins=4 and winAnchorDistNbins=8
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread0 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread1 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread2 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread3 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread4 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread5 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread6 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread7 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread8 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread9 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread10 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread11 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread12 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread13 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread14 ... ok
+Opening the file: OA2_B_STARtmp//FilterBySJoutFiles.mate1.thread15 ... ok
+Created thread # 1
+Created thread # 2
+Created thread # 3
+Created thread # 4
+Created thread # 5
+Created thread # 6
+Created thread # 7
+Created thread # 8
+Created thread # 9
+Created thread # 10
+Created thread # 11
+Created thread # 12
+Created thread # 13
+Created thread # 14
+Created thread # 15
+Thread #10 end of input stream, nextChar=-1
+Completed: thread #15
+Completed: thread #0
+Completed: thread #10
+Completed: thread #4
+Completed: thread #2
+Completed: thread #3
+Completed: thread #5
+Completed: thread #11
+Completed: thread #14
+Completed: thread #1
+Joined thread # 1
+Joined thread # 2
+Joined thread # 3
+Joined thread # 4
+Joined thread # 5
+Completed: thread #8
+Completed: thread #13
+Completed: thread #6
+Joined thread # 6
+Completed: thread #7
+Joined thread # 7
+Joined thread # 8
+Completed: thread #12
+Completed: thread #9
+Joined thread # 9
+Joined thread # 10
+Joined thread # 11
+Joined thread # 12
+Joined thread # 13
+Joined thread # 14
+Joined thread # 15
+Completed stage 1 mapping of outFilterBySJout mapping
+Detected 6885 novel junctions that passed filtering, will proceed to filter reads that contained unannotated junctions
+Created thread # 1
+Created thread # 2
+Created thread # 3
+Created thread # 4
+Created thread # 5
+Created thread # 6
+Created thread # 7
+Created thread # 8
+Created thread # 9
+Created thread # 10
+Created thread # 11
+Created thread # 12
+Created thread # 13
+Created thread # 14
+Created thread # 15
+BAM sorting: 107249 mapped reads
+BAM sorting bins genomic start loci:
+1	0	18248416
+2	0	32391412
+3	1	3083666
+4	1	45047988
+5	2	5167187
+6	2	23168651
+7	2	41561740
+8	2	54052576
+9	3	12158970
+10	3	34419525
+11	4	3774501
+12	4	32640199
+13	4	66825739
+14	5	20401770
+15	5	38850093
+16	5	55239977
+17	6	5516927
+18	6	22068265
+19	6	39988814
+20	6	56100383
+21	7	23461067
+22	7	53457886
+23	8	25359889
+24	8	36702520
+25	8	36702728
+26	8	36702851
+27	8	36702914
+28	8	36948909
+29	8	36948944
+30	8	36948949
+31	8	36948959
+32	8	36948978
+33	8	36948986
+34	8	36951146
+35	8	36951167
+36	8	36951263
+37	8	36951526
+38	8	36951578
+39	8	36951821
+40	8	36951833
+41	8	36951886
+42	8	36951934
+43	8	36952038
+44	9	11110051
+45	9	27214725
+46	9	40393274
+47	9	54156006
+48	92	83265
+Completed: thread #0
+Completed: thread #15
+Completed: thread #10
+Completed: thread #6
+Completed: thread #3
+Completed: thread #11
+Completed: thread #2
+Completed: thread #8
+Completed: thread #13
+Completed: thread #5
+Completed: thread #7
+Completed: thread #4
+Completed: thread #12
+Completed: thread #9
+Completed: thread #1
+Joined thread # 1
+Joined thread # 2
+Joined thread # 3
+Joined thread # 4
+Joined thread # 5
+Joined thread # 6
+Joined thread # 7
+Joined thread # 8
+Joined thread # 9
+Joined thread # 10
+Joined thread # 11
+Joined thread # 12
+Joined thread # 13
+Completed: thread #14
+Joined thread # 14
+Joined thread # 15
+Apr 19 15:29:50 ..... started sorting BAM
+Max memory needed for sorting = 30664581
+ALL DONE!
