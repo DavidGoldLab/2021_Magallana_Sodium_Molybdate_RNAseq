@@ -1,0 +1,40 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0051961	0.999742415908141	0.00259620910971976	1	46	negative regulation of nervous system development	BP	0.9999999999	0.9999999999	BP negative regulation of nervous system development
+GO:0050768	0.999560892671471	0.00416802154619256	1	43	negative regulation of neurogenesis	BP	0.9999999999	0.9999999999	BP negative regulation of neurogenesis
+GO:0003351	1	0.00639555462223571	0	29	epithelial cilium movement	BP	0.9999999999	0.9999999999	BP epithelial cilium movement
+GO:0005929	0.996927310545875	0.00651329665753792	14	154	cilium	CC	0.9999999999	0.9999999999	CC cilium
+GO:0045665	1	0.00709239409583027	0	28	negative regulation of neuron differentiation	BP	0.9999999999	0.9999999999	BP negative regulation of neuron differentiation
+GO:0010721	0.998518840945065	0.00790169159815651	2	50	negative regulation of cell development	BP	0.9999999999	0.9999999999	BP negative regulation of cell development
+GO:0005635	0.998208732110959	0.00936100259462642	2	48	nuclear envelope	CC	0.9999999999	0.9999999999	CC nuclear envelope
+GO:0097729	0.998880221626671	0.00943228514324555	1	40	9+2 motile cilium	CC	0.9999999999	0.9999999999	CC 9+2 motile cilium
+GO:0051668	1	0.00959236545655405	0	25	localization within membrane	BP	0.9999999999	0.9999999999	BP localization within membrane
+GO:0030133	0.998725065601421	0.0106310814273876	1	36	transport vesicle	CC	0.9999999999	0.9999999999	CC transport vesicle
+GO:0002009	0.996532934942635	0.0117982459357459	4	65	morphogenesis of an epithelium	BP	0.9999999999	0.9999999999	BP morphogenesis of an epithelium
+GO:0031345	1	0.0145724128108544	0	23	negative regulation of cell projection organization	BP	0.9999999999	0.9999999999	BP negative regulation of cell projection organization
+GO:0040012	0.992007064344085	0.0155296924929722	15	152	regulation of locomotion	BP	0.9999999999	0.9999999999	BP regulation of locomotion
+GO:0044441	0.988977230738965	0.0196593152854077	19	180	ciliary part	CC	0.9999999999	0.9999999999	CC ciliary part
+GO:0030334	0.990459091741315	0.020026125090475	11	119	regulation of cell migration	BP	0.9999999999	0.9999999999	BP regulation of cell migration
+GO:0072507	0.995615676565832	0.0204579601966716	2	44	divalent inorganic cation homeostasis	BP	0.9999999999	0.9999999999	BP divalent inorganic cation homeostasis
+GO:0031514	0.99145262232145	0.0210641242367096	7	88	motile cilium	CC	0.9999999999	0.9999999999	CC motile cilium
+GO:0031967	0.99354118360931	0.0234217198156327	3	51	organelle envelope	CC	0.9999999999	0.9999999999	CC organelle envelope
+GO:0031975	0.99354118360931	0.0234217198156327	3	51	envelope	CC	0.9999999999	0.9999999999	CC envelope
+GO:0051270	0.98616574497669	0.0253518171499506	16	154	regulation of cellular component movement	BP	0.9999999999	0.9999999999	BP regulation of cellular component movement
+GO:0072503	0.993839451270995	0.0274489661999967	2	42	cellular divalent inorganic cation homeostasis	BP	0.9999999999	0.9999999999	BP cellular divalent inorganic cation homeostasis
+GO:0070382	1	0.0304908678018965	0	19	exocytic vesicle	CC	0.9999999999	0.9999999999	CC exocytic vesicle
+GO:0030335	0.987932639238852	0.0325109010670751	5	68	positive regulation of cell migration	BP	0.9999999999	0.9999999999	BP positive regulation of cell migration
+GO:0036064	0.988620743712398	0.0338802346480941	4	56	ciliary basal body	CC	0.9999999999	0.9999999999	CC ciliary basal body
+GO:0055074	0.991668204640765	0.0355720851883363	2	40	calcium ion homeostasis	BP	0.9999999999	0.9999999999	BP calcium ion homeostasis
+GO:0048729	0.984667546897148	0.0356989357213009	7	79	tissue morphogenesis	BP	0.9999999999	0.9999999999	BP tissue morphogenesis
+GO:0010977	1	0.0358969114892815	0	18	negative regulation of neuron projection development	BP	0.9999999999	0.9999999999	BP negative regulation of neuron projection development
+GO:0008021	1	0.0375612059419875	0	18	synaptic vesicle	CC	0.9999999999	0.9999999999	CC synaptic vesicle
+GO:0030317	0.993986927160054	0.0398089292535289	1	28	flagellated sperm motility	BP	0.9999999999	0.9999999999	BP flagellated sperm motility
+GO:0097722	0.993986927160054	0.0398089292535289	1	28	sperm motility	BP	0.9999999999	0.9999999999	BP sperm motility
+GO:0051272	0.982558166456023	0.0399436718860716	7	82	positive regulation of cellular component movement	BP	0.9999999999	0.9999999999	BP positive regulation of cellular component movement
+GO:0001539	1	0.0454815218551402	0	18	cilium or flagellum-dependent cell motility	BP	0.9999999999	0.9999999999	BP cilium or flagellum-dependent cell motility
+GO:0060285	1	0.0454815218551402	0	18	cilium-dependent cell motility	BP	0.9999999999	0.9999999999	BP cilium-dependent cell motility
+GO:0030165	1	0.0456264022859506	0	17	PDZ domain binding	MF	0.9999999999	0.9999999999	MF PDZ domain binding
+GO:0006874	0.988346657276442	0.0473101228947881	2	38	cellular calcium ion homeostasis	BP	0.9999999999	0.9999999999	BP cellular calcium ion homeostasis
+GO:0030135	0.992485905064596	0.0480166867402251	1	26	coated vesicle	CC	0.9999999999	0.9999999999	CC coated vesicle
+GO:0060562	0.992436309966011	0.0481279990878295	1	27	epithelial tube morphogenesis	BP	0.9999999999	0.9999999999	BP epithelial tube morphogenesis
+GO:0030177	0.992218347837427	0.0491127604387166	1	28	positive regulation of Wnt signaling pathway	BP	0.9999999999	0.9999999999	BP positive regulation of Wnt signaling pathway
+GO:0033135	1	0.0491161850490016	0	17	regulation of peptidyl-serine phosphorylation	BP	0.9999999999	0.9999999999	BP regulation of peptidyl-serine phosphorylation

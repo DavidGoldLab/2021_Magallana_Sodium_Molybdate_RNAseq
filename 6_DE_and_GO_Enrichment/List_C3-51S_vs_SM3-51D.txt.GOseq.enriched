@@ -1,0 +1,113 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005212	0.00439108495161588	0.999897547797859	2	6	structural constituent of eye lens	MF	0.9999999999	MF structural constituent of eye lens	XLOC_033667, XLOC_056044
+GO:0051453	0.00610597859690367	0.999821731156584	2	7	regulation of intracellular pH	BP	0.9999999999	BP regulation of intracellular pH	XLOC_014782, XLOC_041286
+GO:0007601	0.00764952288999784	0.999329335216134	3	23	visual perception	BP	0.9999999999	BP visual perception	XLOC_011464, XLOC_014782, XLOC_041286
+GO:0050953	0.00764952288999784	0.999329335216134	3	23	sensory perception of light stimulus	BP	0.9999999999	BP sensory perception of light stimulus	XLOC_011464, XLOC_014782, XLOC_041286
+GO:0006885	0.0101922555642837	0.999585350792537	2	9	regulation of pH	BP	0.9999999999	BP regulation of pH	XLOC_014782, XLOC_041286
+GO:0030641	0.0101922555642837	0.999585350792537	2	9	regulation of cellular pH	BP	0.9999999999	BP regulation of cellular pH	XLOC_014782, XLOC_041286
+GO:0008203	0.0102800406859189	0.998984873122916	3	26	cholesterol metabolic process	BP	0.9999999999	BP cholesterol metabolic process	XLOC_014409, XLOC_014782, XLOC_052718
+GO:1902652	0.0113629057544717	0.998832287169808	3	27	secondary alcohol metabolic process	BP	0.9999999999	BP secondary alcohol metabolic process	XLOC_014409, XLOC_014782, XLOC_052718
+GO:0042803	0.0138245004250229	0.996506846274963	6	109	protein homodimerization activity	MF	0.9999999999	MF protein homodimerization activity	XLOC_005805, XLOC_010891, XLOC_014409, XLOC_014782, XLOC_037256, XLOC_056044
+GO:0030004	0.0152867652152678	0.999200777271332	2	11	cellular monovalent inorganic cation homeostasis	BP	0.9999999999	BP cellular monovalent inorganic cation homeostasis	XLOC_014782, XLOC_041286
+GO:0055067	0.0152867652152678	0.999200777271332	2	11	monovalent inorganic cation homeostasis	BP	0.9999999999	BP monovalent inorganic cation homeostasis	XLOC_014782, XLOC_041286
+GO:0016125	0.0156234236512017	0.998179175433189	3	30	sterol metabolic process	BP	0.9999999999	BP sterol metabolic process	XLOC_014409, XLOC_014782, XLOC_052718
+GO:0006066	0.0160305490369565	0.997210826576962	4	55	alcohol metabolic process	BP	0.9999999999	BP alcohol metabolic process	XLOC_014409, XLOC_014782, XLOC_035399, XLOC_052718
+GO:0070012	0.0166077925041362	1	1	1	oligopeptidase activity	MF	0.9999999999	MF oligopeptidase activity	XLOC_005492
+GO:0030283	0.0166533179878796	1	1	1	testosterone dehydrogenase [NAD(P)] activity	MF	0.9999999999	MF testosterone dehydrogenase [NAD(P)] activity	XLOC_014409
+GO:0033540	0.0166533179878796	1	1	1	fatty acid beta-oxidation using acyl-CoA oxidase	BP	0.9999999999	BP fatty acid beta-oxidation using acyl-CoA oxidase	XLOC_014409
+GO:0033989	0.0166533179878796	1	1	1	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity	MF	0.9999999999	MF 3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity	XLOC_014409
+GO:0036109	0.0166533179878796	1	1	1	alpha-linolenic acid metabolic process	BP	0.9999999999	BP alpha-linolenic acid metabolic process	XLOC_014409
+GO:0036111	0.0166533179878796	1	1	1	very long-chain fatty-acyl-CoA metabolic process	BP	0.9999999999	BP very long-chain fatty-acyl-CoA metabolic process	XLOC_014409
+GO:0036112	0.0166533179878796	1	1	1	medium-chain fatty-acyl-CoA metabolic process	BP	0.9999999999	BP medium-chain fatty-acyl-CoA metabolic process	XLOC_014409
+GO:0004719	0.0166828955835172	1	1	1	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	MF	0.9999999999	MF protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	XLOC_016629
+GO:0010340	0.0166828955835172	1	1	1	carboxyl-O-methyltransferase activity	MF	0.9999999999	MF carboxyl-O-methyltransferase activity	XLOC_016629
+GO:0018197	0.0166828955835172	1	1	1	peptidyl-aspartic acid modification	BP	0.9999999999	BP peptidyl-aspartic acid modification	XLOC_016629
+GO:0051998	0.0166828955835172	1	1	1	protein carboxyl O-methyltransferase activity	MF	0.9999999999	MF protein carboxyl O-methyltransferase activity	XLOC_016629
+GO:0045541	0.0168578088494829	1	1	1	negative regulation of cholesterol biosynthetic process	BP	0.9999999999	BP negative regulation of cholesterol biosynthetic process	XLOC_052718
+GO:0090206	0.0168578088494829	1	1	1	negative regulation of cholesterol metabolic process	BP	0.9999999999	BP negative regulation of cholesterol metabolic process	XLOC_052718
+GO:1902931	0.0168578088494829	1	1	1	negative regulation of alcohol biosynthetic process	BP	0.9999999999	BP negative regulation of alcohol biosynthetic process	XLOC_052718
+GO:0051304	0.0168804841983261	1	1	1	chromosome separation	BP	0.9999999999	BP chromosome separation	XLOC_004378
+GO:0051307	0.0168804841983261	1	1	1	meiotic chromosome separation	BP	0.9999999999	BP meiotic chromosome separation	XLOC_004378
+GO:0047935	0.0168872847434832	1	1	1	glucose 1-dehydrogenase (NADP+) activity	MF	0.9999999999	MF glucose 1-dehydrogenase (NADP+) activity	XLOC_027577
+GO:0006114	0.0170049972912583	1	1	1	glycerol biosynthetic process	BP	0.9999999999	BP glycerol biosynthetic process	XLOC_035399
+GO:0006116	0.0170049972912583	1	1	1	NADH oxidation	BP	0.9999999999	BP NADH oxidation	XLOC_035399
+GO:0019401	0.0170049972912583	1	1	1	alditol biosynthetic process	BP	0.9999999999	BP alditol biosynthetic process	XLOC_035399
+GO:0046327	0.0170049972912583	1	1	1	glycerol biosynthetic process from pyruvate	BP	0.9999999999	BP glycerol biosynthetic process from pyruvate	XLOC_035399
+GO:0007035	0.0174650349956786	1	1	1	vacuolar acidification	BP	0.9999999999	BP vacuolar acidification	XLOC_014782
+GO:0007042	0.0174650349956786	1	1	1	lysosomal lumen acidification	BP	0.9999999999	BP lysosomal lumen acidification	XLOC_014782
+GO:0035751	0.0174650349956786	1	1	1	regulation of lysosomal lumen pH	BP	0.9999999999	BP regulation of lysosomal lumen pH	XLOC_014782
+GO:0120146	0.0174650349956786	1	1	1	sulfatide binding	MF	0.9999999999	MF sulfatide binding	XLOC_014782
+GO:0008426	0.0179751608715187	1	1	1	protein kinase C inhibitor activity	MF	0.9999999999	MF protein kinase C inhibitor activity	XLOC_056044
+GO:0099640	0.0179751608715187	1	1	1	axo-dendritic protein transport	BP	0.9999999999	BP axo-dendritic protein transport	XLOC_056044
+GO:0099641	0.0179751608715187	1	1	1	anterograde axonal protein transport	BP	0.9999999999	BP anterograde axonal protein transport	XLOC_056044
+GO:1905383	0.0179751608715187	1	1	1	protein localization to presynapse	BP	0.9999999999	BP protein localization to presynapse	XLOC_056044
+GO:0005044	0.0181298771723532	0.998962630051734	2	11	scavenger receptor activity	MF	0.9999999999	MF scavenger receptor activity	XLOC_009314, XLOC_054830
+GO:0046983	0.0181702548535868	0.994495959389316	7	149	protein dimerization activity	MF	0.9999999999	MF protein dimerization activity	XLOC_005805, XLOC_010891, XLOC_014409, XLOC_014782, XLOC_022588, XLOC_037256, XLOC_056044
+GO:1990624	0.0181923953368641	1	1	1	guanyl nucleotide exchange factor inhibitor activity	MF	0.9999999999	MF guanyl nucleotide exchange factor inhibitor activity	XLOC_017805
+GO:1901615	0.0182510216135199	0.995821588400234	5	86	organic hydroxy compound metabolic process	BP	0.9999999999	BP organic hydroxy compound metabolic process	XLOC_014409, XLOC_014782, XLOC_035399, XLOC_046199, XLOC_052718
+GO:0000774	0.0182827384411531	1	1	1	adenyl-nucleotide exchange factor activity	MF	0.9999999999	MF adenyl-nucleotide exchange factor activity	XLOC_002906
+GO:1903215	0.0182827384411531	1	1	1	negative regulation of protein targeting to mitochondrion	BP	0.9999999999	BP negative regulation of protein targeting to mitochondrion	XLOC_002906
+GO:1903748	0.0182827384411531	1	1	1	negative regulation of establishment of protein localization to mitochondrion	BP	0.9999999999	BP negative regulation of establishment of protein localization to mitochondrion	XLOC_002906
+GO:2001144	0.0182827384411531	1	1	1	regulation of phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	BP	0.9999999999	BP regulation of phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	XLOC_002906
+GO:2001145	0.0182827384411531	1	1	1	negative regulation of phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	BP	0.9999999999	BP negative regulation of phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase activity	XLOC_002906
+GO:0000234	0.0183515592511833	1	1	1	phosphoethanolamine N-methyltransferase activity	MF	0.9999999999	MF phosphoethanolamine N-methyltransferase activity	XLOC_029182
+GO:0006480	0.0183515592511833	1	1	1	N-terminal protein amino acid methylation	BP	0.9999999999	BP N-terminal protein amino acid methylation	XLOC_029182
+GO:0006651	0.0183515592511833	1	1	1	diacylglycerol biosynthetic process	BP	0.9999999999	BP diacylglycerol biosynthetic process	XLOC_029182
+GO:0009555	0.0183515592511833	1	1	1	pollen development	BP	0.9999999999	BP pollen development	XLOC_029182
+GO:0009877	0.0183515592511833	1	1	1	nodulation	BP	0.9999999999	BP nodulation	XLOC_029182
+GO:0048229	0.0183515592511833	1	1	1	gametophyte development	BP	0.9999999999	BP gametophyte development	XLOC_029182
+GO:0052667	0.0183515592511833	1	1	1	phosphomethylethanolamine N-methyltransferase activity	MF	0.9999999999	MF phosphomethylethanolamine N-methyltransferase activity	XLOC_029182
+GO:0009916	0.0185471259979701	1	1	1	alternative oxidase activity	MF	0.9999999999	MF alternative oxidase activity	XLOC_002086
+GO:0010230	0.0185471259979701	1	1	1	alternative respiration	BP	0.9999999999	BP alternative respiration	XLOC_002086
+GO:0008202	0.0185650024392362	0.996620243142441	4	57	steroid metabolic process	BP	0.9999999999	BP steroid metabolic process	XLOC_014409, XLOC_014782, XLOC_027577, XLOC_052718
+GO:0005811	0.0262077683195916	0.998111524442469	2	14	lipid droplet	CC	0.9999999999	CC lipid droplet	XLOC_011582, XLOC_053232
+GO:0016616	0.0276422941739746	0.99595202956093	3	37	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF	0.9999999999	MF oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	XLOC_014409, XLOC_027577, XLOC_046199
+GO:0019210	0.0282369490984736	0.997865174422597	2	15	kinase inhibitor activity	MF	0.9999999999	MF kinase inhibitor activity	XLOC_037256, XLOC_056044
+GO:0071356	0.0285375507326482	0.997830128818565	2	15	cellular response to tumor necrosis factor	BP	0.9999999999	BP cellular response to tumor necrosis factor	XLOC_002906, XLOC_035399
+GO:0042594	0.0302008375486989	0.995417982080172	3	38	response to starvation	BP	0.9999999999	BP response to starvation	XLOC_016629, XLOC_022588, XLOC_035399
+GO:0001676	0.0307384668350853	0.997550556954672	2	16	long-chain fatty acid metabolic process	BP	0.9999999999	BP long-chain fatty acid metabolic process	XLOC_014409, XLOC_046199
+GO:0006749	0.0308269225901424	0.997539699213946	2	16	glutathione metabolic process	BP	0.9999999999	BP glutathione metabolic process	XLOC_012442, XLOC_033667
+GO:0016836	0.0314185126019389	0.997466639903707	2	16	hydro-lyase activity	MF	0.9999999999	MF hydro-lyase activity	XLOC_014409, XLOC_028595
+GO:0016614	0.0317899567971637	0.995074110775568	3	39	oxidoreductase activity, acting on CH-OH group of donors	MF	0.9999999999	MF oxidoreductase activity, acting on CH-OH group of donors	XLOC_014409, XLOC_027577, XLOC_046199
+GO:0060009	0.0333254927732201	0.999719180328341	1	2	Sertoli cell development	BP	0.9999999999	BP Sertoli cell development	XLOC_014409
+GO:0016508	0.0333811024820444	0.999718234267465	1	2	long-chain-enoyl-CoA hydratase activity	MF	0.9999999999	MF long-chain-enoyl-CoA hydratase activity	XLOC_014409
+GO:0018812	0.0336004737751094	0.999714486424887	1	2	3-hydroxyacyl-CoA dehydratase activity	MF	0.9999999999	MF 3-hydroxyacyl-CoA dehydratase activity	XLOC_014409
+GO:0032977	0.0337423172068648	0.999712049694196	1	2	membrane insertase activity	MF	0.9999999999	MF membrane insertase activity	XLOC_030655
+GO:0019541	0.033786779128949	0.999711283713488	1	2	propionate metabolic process	BP	0.9999999999	BP propionate metabolic process	XLOC_035399
+GO:0019543	0.033786779128949	0.999711283713488	1	2	propionate catabolic process	BP	0.9999999999	BP propionate catabolic process	XLOC_035399
+GO:0006107	0.0338067396249093	0.99971093950155	1	2	oxaloacetate metabolic process	BP	0.9999999999	BP oxaloacetate metabolic process	XLOC_035399
+GO:0008171	0.0340474065994529	0.999706772856226	1	2	O-methyltransferase activity	MF	0.9999999999	MF O-methyltransferase activity	XLOC_016629
+GO:0042585	0.0342177136133957	0.999703806013771	1	2	germinal vesicle	CC	0.9999999999	CC germinal vesicle	XLOC_004378
+GO:0097327	0.0342422049746408	0.999703378110799	1	2	response to antineoplastic agent	BP	0.9999999999	BP response to antineoplastic agent	XLOC_046199
+GO:0035727	0.0343076773516502	0.999702232661062	1	2	lysophosphatidic acid binding	MF	0.9999999999	MF lysophosphatidic acid binding	XLOC_014782
+GO:0019432	0.0350816643439311	0.99968852131458	1	2	triglyceride biosynthetic process	BP	0.9999999999	BP triglyceride biosynthetic process	XLOC_029182
+GO:0046460	0.0350816643439311	0.99968852131458	1	2	neutral lipid biosynthetic process	BP	0.9999999999	BP neutral lipid biosynthetic process	XLOC_029182
+GO:0046463	0.0350816643439311	0.99968852131458	1	2	acylglycerol biosynthetic process	BP	0.9999999999	BP acylglycerol biosynthetic process	XLOC_029182
+GO:0005452	0.0351093846866909	0.99968802441442	1	2	inorganic anion exchanger activity	MF	0.9999999999	MF inorganic anion exchanger activity	XLOC_041286
+GO:0008510	0.0351093846866909	0.99968802441442	1	2	sodium:bicarbonate symporter activity	MF	0.9999999999	MF sodium:bicarbonate symporter activity	XLOC_041286
+GO:0015106	0.0351093846866909	0.99968802441442	1	2	bicarbonate transmembrane transporter activity	MF	0.9999999999	MF bicarbonate transmembrane transporter activity	XLOC_041286
+GO:0015701	0.0351093846866909	0.99968802441442	1	2	bicarbonate transport	BP	0.9999999999	BP bicarbonate transport	XLOC_041286
+GO:0021860	0.0351093846866909	0.99968802441442	1	2	pyramidal neuron development	BP	0.9999999999	BP pyramidal neuron development	XLOC_041286
+GO:0097441	0.0351093846866909	0.99968802441442	1	2	basal dendrite	CC	0.9999999999	CC basal dendrite	XLOC_041286
+GO:0097442	0.0351093846866909	0.99968802441442	1	2	CA3 pyramidal cell dendrite	CC	0.9999999999	CC CA3 pyramidal cell dendrite	XLOC_041286
+GO:0004830	0.0351304180126379	0.999687647113128	1	2	tryptophan-tRNA ligase activity	MF	0.9999999999	MF tryptophan-tRNA ligase activity	XLOC_037256
+GO:0006436	0.0351304180126379	0.999687647113128	1	2	tryptophanyl-tRNA aminoacylation	BP	0.9999999999	BP tryptophanyl-tRNA aminoacylation	XLOC_037256
+GO:0045540	0.035215402730608	0.999686120270973	1	2	regulation of cholesterol biosynthetic process	BP	0.9999999999	BP regulation of cholesterol biosynthetic process	XLOC_052718
+GO:0035278	0.0353532571058565	0.999683635506958	1	2	miRNA mediated inhibition of translation	BP	0.9999999999	BP miRNA mediated inhibition of translation	XLOC_028225
+GO:0040033	0.0353532571058565	0.999683635506958	1	2	negative regulation of translation, ncRNA-mediated	BP	0.9999999999	BP negative regulation of translation, ncRNA-mediated	XLOC_028225
+GO:0045974	0.0353532571058565	0.999683635506958	1	2	regulation of translation, ncRNA-mediated	BP	0.9999999999	BP regulation of translation, ncRNA-mediated	XLOC_028225
+GO:0090365	0.035491220524104	0.999681138789741	1	2	regulation of mRNA modification	BP	0.9999999999	BP regulation of mRNA modification	XLOC_002906
+GO:0090367	0.035491220524104	0.999681138789741	1	2	negative regulation of mRNA modification	BP	0.9999999999	BP negative regulation of mRNA modification	XLOC_002906
+GO:1901617	0.0362007561915477	0.996829476855321	2	17	organic hydroxy compound biosynthetic process	BP	0.9999999999	BP organic hydroxy compound biosynthetic process	XLOC_014409, XLOC_035399
+GO:0010889	0.0368407733968158	0.99965618864489	1	2	regulation of sequestering of triglyceride	BP	0.9999999999	BP regulation of sequestering of triglyceride	XLOC_011582
+GO:0010890	0.0368407733968158	0.99965618864489	1	2	positive regulation of sequestering of triglyceride	BP	0.9999999999	BP positive regulation of sequestering of triglyceride	XLOC_011582
+GO:0031987	0.0377719678228819	0.999638414372284	1	2	locomotion involved in locomotory behavior	BP	0.9999999999	BP locomotion involved in locomotory behavior	XLOC_014782
+GO:0038024	0.0389963503696225	0.996443663305225	2	17	cargo receptor activity	MF	0.9999999999	MF cargo receptor activity	XLOC_009314, XLOC_054830
+GO:0033559	0.0396800289416303	0.996327691004761	2	18	unsaturated fatty acid metabolic process	BP	0.9999999999	BP unsaturated fatty acid metabolic process	XLOC_014409, XLOC_046199
+GO:1901564	0.0398270690969613	0.976465598372274	24	923	organonitrogen compound metabolic process	BP	0.9999999999	BP organonitrogen compound metabolic process	XLOC_001477, XLOC_005805, XLOC_007096, XLOC_011464, XLOC_012442, XLOC_014782, XLOC_016629, XLOC_017805, XLOC_026739, XLOC_028225, XLOC_029182, XLOC_032652, XLOC_032870, XLOC_032927, XLOC_033667, XLOC_035399, XLOC_036692, XLOC_037256, XLOC_037412, XLOC_041286, XLOC_042563, XLOC_052718, XLOC_054830, XLOC_061888
+GO:0016835	0.043040602312453	0.99581655406515	2	19	carbon-oxygen lyase activity	MF	0.9999999999	MF carbon-oxygen lyase activity	XLOC_014409, XLOC_028595
+GO:0008289	0.0443393080826613	0.985305318051645	6	145	lipid binding	MF	0.9999999999	MF lipid binding	XLOC_014782, XLOC_033412, XLOC_037412, XLOC_049289, XLOC_051056, XLOC_052718
+GO:0016829	0.0447320393288069	0.992028871536145	3	45	lyase activity	MF	0.9999999999	MF lyase activity	XLOC_014409, XLOC_028595, XLOC_035399
+GO:0006694	0.0454598017738961	0.995447083932854	2	19	steroid biosynthetic process	BP	0.9999999999	BP steroid biosynthetic process	XLOC_014409, XLOC_027577
+GO:0019538	0.0460197672707072	0.97408335942473	19	700	protein metabolic process	BP	0.9999999999	BP protein metabolic process	XLOC_001477, XLOC_005805, XLOC_007096, XLOC_011464, XLOC_016629, XLOC_017805, XLOC_026739, XLOC_028225, XLOC_029182, XLOC_032652, XLOC_032870, XLOC_032927, XLOC_036692, XLOC_037412, XLOC_041286, XLOC_042563, XLOC_052718, XLOC_054830, XLOC_061888
+GO:0034612	0.0493890642640487	0.994801635577328	2	20	response to tumor necrosis factor	BP	0.9999999999	BP response to tumor necrosis factor	XLOC_002906, XLOC_035399

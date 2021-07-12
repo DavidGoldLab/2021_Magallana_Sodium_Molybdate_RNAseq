@@ -1,0 +1,126 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0044441	0.999983982389151	5.40507450720163e-05	9	180	ciliary part	CC	0.9999999999	0.712496921539318	CC ciliary part
+GO:0044430	0.999911303001656	0.000165663022414578	38	436	cytoskeletal part	CC	0.9999999999	0.9999999999	CC cytoskeletal part
+GO:0044463	0.999419889535125	0.00108349511354922	29	332	cell projection part	CC	0.9999999999	0.9999999999	CC cell projection part
+GO:0022607	0.999164002537148	0.00136556384768522	48	485	cellular component assembly	BP	0.9999999999	0.9999999999	BP cellular component assembly
+GO:0005930	0.99975760341332	0.00154140542204445	2	71	axoneme	CC	0.9999999999	0.9999999999	CC axoneme
+GO:0006928	0.998301849772483	0.00302059119171287	29	320	movement of cell or subcellular component	BP	0.9999999999	0.9999999999	BP movement of cell or subcellular component
+GO:0003341	0.999398816162531	0.00349402119300974	2	66	cilium movement	BP	0.9999999999	0.9999999999	BP cilium movement
+GO:0008270	0.998201268626699	0.00363183382733701	18	218	zinc ion binding	MF	0.9999999999	0.9999999999	MF zinc ion binding
+GO:0044782	0.998308389473267	0.00509976157583783	6	102	cilium organization	BP	0.9999999999	0.9999999999	BP cilium organization
+GO:0007018	0.997544341104085	0.00610762895185579	9	132	microtubule-based movement	BP	0.9999999999	0.9999999999	BP microtubule-based movement
+GO:1901701	0.997539167841486	0.00672557807536251	7	116	cellular response to oxygen-containing compound	BP	0.9999999999	0.9999999999	BP cellular response to oxygen-containing compound
+GO:0090257	0.999149873761766	0.00737665954540432	1	45	regulation of muscle system process	BP	0.9999999999	0.9999999999	BP regulation of muscle system process
+GO:0071417	0.997852033167515	0.00873766278539637	3	70	cellular response to organonitrogen compound	BP	0.9999999999	0.9999999999	BP cellular response to organonitrogen compound
+GO:0070647	0.995790014252656	0.00937553235058595	11	145	protein modification by small protein conjugation or removal	BP	0.9999999999	0.9999999999	BP protein modification by small protein conjugation or removal
+GO:0043412	0.99274060090811	0.0107497858411016	51	473	macromolecule modification	BP	0.9999999999	0.9999999999	BP macromolecule modification
+GO:0017038	1	0.010894834362271	0	29	protein import	BP	0.9999999999	0.9999999999	BP protein import
+GO:0006302	1	0.0110012827581172	0	29	double-strand break repair	BP	0.9999999999	0.9999999999	BP double-strand break repair
+GO:1901699	0.996728764771817	0.0110763843784423	4	79	cellular response to nitrogen compound	BP	0.9999999999	0.9999999999	BP cellular response to nitrogen compound
+GO:0048468	0.994386896330746	0.0118924453803655	12	152	cell development	BP	0.9999999999	0.9999999999	BP cell development
+GO:0007389	0.995288527257132	0.0122086218159187	7	104	pattern specification process	BP	0.9999999999	0.9999999999	BP pattern specification process
+GO:0060271	0.995575779207169	0.0122549585838744	6	93	cilium assembly	BP	0.9999999999	0.9999999999	BP cilium assembly
+GO:0007017	0.992879956164219	0.0124178775372724	23	244	microtubule-based process	BP	0.9999999999	0.9999999999	BP microtubule-based process
+GO:0042995	0.991227765082106	0.0132703461143375	43	405	cell projection	CC	0.9999999999	0.9999999999	CC cell projection
+GO:0043085	0.993414112484234	0.0137703373744702	12	154	positive regulation of catalytic activity	BP	0.9999999999	0.9999999999	BP positive regulation of catalytic activity
+GO:0009896	0.996405668849073	0.0138288639310038	3	65	positive regulation of catabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of catabolic process
+GO:0051186	0.996404558009953	0.0138451119779225	3	64	cofactor metabolic process	BP	0.9999999999	0.9999999999	BP cofactor metabolic process
+GO:0070925	0.99296462529248	0.0140028228005929	14	165	organelle assembly	BP	0.9999999999	0.9999999999	BP organelle assembly
+GO:0030100	0.997074532457728	0.0142722964229915	2	52	regulation of endocytosis	BP	0.9999999999	0.9999999999	BP regulation of endocytosis
+GO:0005737	0.988531386734688	0.0147406187215113	127	1040	cytoplasm	CC	0.9999999999	0.9999999999	CC cytoplasm
+GO:0005815	0.992418675131864	0.0150145268725709	14	162	microtubule organizing center	CC	0.9999999999	0.9999999999	CC microtubule organizing center
+GO:0045165	1	0.015095215127889	0	29	cell fate commitment	BP	0.9999999999	0.9999999999	BP cell fate commitment
+GO:2000146	0.997966175938057	0.0157013994477978	1	40	negative regulation of cell motility	BP	0.9999999999	0.9999999999	BP negative regulation of cell motility
+GO:0008092	0.99016729598653	0.0163640941820169	26	258	cytoskeletal protein binding	MF	0.9999999999	0.9999999999	MF cytoskeletal protein binding
+GO:0031300	1	0.0165883083325508	0	25	intrinsic component of organelle membrane	CC	0.9999999999	0.9999999999	CC intrinsic component of organelle membrane
+GO:0042493	0.996388480766716	0.0170880441409117	2	54	response to drug	BP	0.9999999999	0.9999999999	BP response to drug
+GO:0030336	0.997746068361356	0.0171591104239525	1	39	negative regulation of cell migration	BP	0.9999999999	0.9999999999	BP negative regulation of cell migration
+GO:0006631	0.995074915026261	0.0182609564430905	3	63	fatty acid metabolic process	BP	0.9999999999	0.9999999999	BP fatty acid metabolic process
+GO:0019900	0.99140861644801	0.0186581407107396	10	125	kinase binding	MF	0.9999999999	0.9999999999	MF kinase binding
+GO:0009894	0.991383424916856	0.0186761056940489	10	130	regulation of catabolic process	BP	0.9999999999	0.9999999999	BP regulation of catabolic process
+GO:0031301	1	0.0187047807198541	0	24	integral component of organelle membrane	CC	0.9999999999	0.9999999999	CC integral component of organelle membrane
+GO:0042176	0.994824456043236	0.0191234916106486	3	60	regulation of protein catabolic process	BP	0.9999999999	0.9999999999	BP regulation of protein catabolic process
+GO:0044057	0.993202867810338	0.0194358639983924	5	78	regulation of system process	BP	0.9999999999	0.9999999999	BP regulation of system process
+GO:0044422	0.983883871214543	0.0195600632866209	216	1687	organelle part	CC	0.9999999999	0.9999999999	CC organelle part
+GO:0019901	0.991178481734729	0.019784843893915	9	115	protein kinase binding	MF	0.9999999999	0.9999999999	MF protein kinase binding
+GO:0072329	1	0.0200563355087699	0	27	monocarboxylic acid catabolic process	BP	0.9999999999	0.9999999999	BP monocarboxylic acid catabolic process
+GO:0007368	0.997277647006578	0.0201230223941488	1	39	determination of left/right symmetry	BP	0.9999999999	0.9999999999	BP determination of left/right symmetry
+GO:0009799	0.997277647006578	0.0201230223941488	1	39	specification of symmetry	BP	0.9999999999	0.9999999999	BP specification of symmetry
+GO:0009855	0.997277647006578	0.0201230223941488	1	39	determination of bilateral symmetry	BP	0.9999999999	0.9999999999	BP determination of bilateral symmetry
+GO:0097729	0.997175985382705	0.0207191256225876	1	40	9+2 motile cilium	CC	0.9999999999	0.9999999999	CC 9+2 motile cilium
+GO:1902494	0.986570542278241	0.0208621600410419	33	324	catalytic complex	CC	0.9999999999	0.9999999999	CC catalytic complex
+GO:0006464	0.985495383054823	0.0209368380604842	49	446	cellular protein modification process	BP	0.9999999999	0.9999999999	BP cellular protein modification process
+GO:0036211	0.985495383054823	0.0209368380604842	49	446	protein modification process	BP	0.9999999999	0.9999999999	BP protein modification process
+GO:0099513	0.98842130010183	0.0214173057187792	16	175	polymeric cytoskeletal fiber	CC	0.9999999999	0.9999999999	CC polymeric cytoskeletal fiber
+GO:1905475	1	0.0214228847177526	0	25	regulation of protein localization to membrane	BP	0.9999999999	0.9999999999	BP regulation of protein localization to membrane
+GO:0030031	0.989316579285651	0.021539828594386	12	141	cell projection assembly	BP	0.9999999999	0.9999999999	BP cell projection assembly
+GO:0005874	0.988786977411652	0.021547407304119	14	159	microtubule	CC	0.9999999999	0.9999999999	CC microtubule
+GO:0032787	0.991710426180973	0.0215521891057322	6	91	monocarboxylic acid metabolic process	BP	0.9999999999	0.9999999999	BP monocarboxylic acid metabolic process
+GO:0000981	0.991656474488395	0.0217257119224924	6	87	DNA-binding transcription factor activity, RNA polymerase II-specific	MF	0.9999999999	0.9999999999	MF DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0021700	1	0.0220260973729501	0	23	developmental maturation	BP	0.9999999999	0.9999999999	BP developmental maturation
+GO:0048584	0.985432072634603	0.022810589492064	31	301	positive regulation of response to stimulus	BP	0.9999999999	0.9999999999	BP positive regulation of response to stimulus
+GO:0050794	0.98129453279961	0.0228989050085406	183	1431	regulation of cellular process	BP	0.9999999999	0.9999999999	BP regulation of cellular process
+GO:0071229	1	0.0236498992833813	0	26	cellular response to acid chemical	BP	0.9999999999	0.9999999999	BP cellular response to acid chemical
+GO:0005813	0.989180557880671	0.0238213895386842	9	113	centrosome	CC	0.9999999999	0.9999999999	CC centrosome
+GO:0006909	1	0.024901735301876	0	24	phagocytosis	BP	0.9999999999	0.9999999999	BP phagocytosis
+GO:0050789	0.979120076243313	0.025332534100292	197	1529	regulation of biological process	BP	0.9999999999	0.9999999999	BP regulation of biological process
+GO:0010647	0.984457674965158	0.0257871828132143	23	234	positive regulation of cell communication	BP	0.9999999999	0.9999999999	BP positive regulation of cell communication
+GO:0016616	0.996292906899912	0.0261587220966694	1	37	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MF	0.9999999999	0.9999999999	MF oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070887	0.984041187460353	0.0266562348055262	22	235	cellular response to chemical stimulus	BP	0.9999999999	0.9999999999	BP cellular response to chemical stimulus
+GO:0099003	1	0.0273261455979473	0	23	vesicle-mediated transport in synapse	BP	0.9999999999	0.9999999999	BP vesicle-mediated transport in synapse
+GO:0045807	0.996037635305901	0.0277557813130475	1	35	positive regulation of endocytosis	BP	0.9999999999	0.9999999999	BP positive regulation of endocytosis
+GO:0016043	0.978097711328307	0.027770093889206	117	951	cellular component organization	BP	0.9999999999	0.9999999999	BP cellular component organization
+GO:0005829	0.978670281597906	0.0278441399242221	90	755	cytosol	CC	0.9999999999	0.9999999999	CC cytosol
+GO:0044770	0.995824607835556	0.0289910898412561	1	35	cell cycle phase transition	BP	0.9999999999	0.9999999999	BP cell cycle phase transition
+GO:0051607	1	0.0290211790896219	0	23	defense response to virus	BP	0.9999999999	0.9999999999	BP defense response to virus
+GO:0099080	0.98277932144136	0.0296420396845703	19	195	supramolecular complex	CC	0.9999999999	0.9999999999	CC supramolecular complex
+GO:0099081	0.98277932144136	0.0296420396845703	19	195	supramolecular polymer	CC	0.9999999999	0.9999999999	CC supramolecular polymer
+GO:0099512	0.98277932144136	0.0296420396845703	19	195	supramolecular fiber	CC	0.9999999999	0.9999999999	CC supramolecular fiber
+GO:0005096	0.99561008423789	0.0301657109627347	1	36	GTPase activator activity	MF	0.9999999999	0.9999999999	MF GTPase activator activity
+GO:0005911	0.988725117929666	0.0304533392827299	5	76	cell-cell junction	CC	0.9999999999	0.9999999999	CC cell-cell junction
+GO:0120025	0.978746639084592	0.0307290136147029	43	388	plasma membrane bounded cell projection	CC	0.9999999999	0.9999999999	CC plasma membrane bounded cell projection
+GO:0031331	0.990851359139495	0.031414144834672	3	58	positive regulation of cellular catabolic process	BP	0.9999999999	0.9999999999	BP positive regulation of cellular catabolic process
+GO:0044446	0.973748348122367	0.0314768895769389	211	1634	intracellular organelle part	CC	0.9999999999	0.9999999999	CC intracellular organelle part
+GO:0048568	1	0.0317511073443351	0	23	embryonic organ development	BP	0.9999999999	0.9999999999	BP embryonic organ development
+GO:0071840	0.974673952358325	0.0318384135671254	121	974	cellular component organization or biogenesis	BP	0.9999999999	0.9999999999	BP cellular component organization or biogenesis
+GO:0032446	0.984216748768402	0.0324392407362224	10	121	protein modification by small protein conjugation	BP	0.9999999999	0.9999999999	BP protein modification by small protein conjugation
+GO:0018210	1	0.0327526144874148	0	21	peptidyl-threonine modification	BP	0.9999999999	0.9999999999	BP peptidyl-threonine modification
+GO:0006357	0.978399469770243	0.0332424483241246	30	282	regulation of transcription by RNA polymerase II	BP	0.9999999999	0.9999999999	BP regulation of transcription by RNA polymerase II
+GO:0007165	0.975208576759293	0.0336135039268082	63	541	signal transduction	BP	0.9999999999	0.9999999999	BP signal transduction
+GO:0005929	0.981802588617586	0.0336203059512244	14	154	cilium	CC	0.9999999999	0.9999999999	CC cilium
+GO:0044282	0.986821965738375	0.0349073324704224	5	77	small molecule catabolic process	BP	0.9999999999	0.9999999999	BP small molecule catabolic process
+GO:0000287	0.994799907428112	0.0349083027996134	1	33	magnesium ion binding	MF	0.9999999999	0.9999999999	MF magnesium ion binding
+GO:0044450	0.986844355084397	0.0349478060243635	5	73	microtubule organizing center part	CC	0.9999999999	0.9999999999	CC microtubule organizing center part
+GO:0045177	1	0.0364498662505882	0	22	apical part of cell	CC	0.9999999999	0.9999999999	CC apical part of cell
+GO:0051345	0.986162279646631	0.0364827283181958	5	75	positive regulation of hydrolase activity	BP	0.9999999999	0.9999999999	BP positive regulation of hydrolase activity
+GO:0006468	0.98202863325853	0.0365077253385197	10	118	protein phosphorylation	BP	0.9999999999	0.9999999999	BP protein phosphorylation
+GO:0006461	0.981397426770869	0.0366138984580554	11	129	NA	NA	0.9999999999	0.9999999999	none
+GO:0016627	1	0.0367292448559315	0	21	oxidoreductase activity, acting on the CH-CH group of donors	MF	0.9999999999	0.9999999999	MF oxidoreductase activity, acting on the CH-CH group of donors
+GO:0044772	0.994430264915541	0.0369399317691625	1	33	mitotic cell cycle phase transition	BP	0.9999999999	0.9999999999	BP mitotic cell cycle phase transition
+GO:0002682	0.978097742199824	0.0369997919464305	19	196	regulation of immune system process	BP	0.9999999999	0.9999999999	BP regulation of immune system process
+GO:0050866	1	0.0372696697487735	0	21	negative regulation of cell activation	BP	0.9999999999	0.9999999999	BP negative regulation of cell activation
+GO:1901568	1	0.037349736344	0	22	fatty acid derivative metabolic process	BP	0.9999999999	0.9999999999	BP fatty acid derivative metabolic process
+GO:0048259	1	0.0377242447456152	0	20	regulation of receptor-mediated endocytosis	BP	0.9999999999	0.9999999999	BP regulation of receptor-mediated endocytosis
+GO:0023056	0.975968631225218	0.0383518610353274	24	235	positive regulation of signaling	BP	0.9999999999	0.9999999999	BP positive regulation of signaling
+GO:0006996	0.971234450950676	0.0392580442491369	57	485	organelle organization	BP	0.9999999999	0.9999999999	BP organelle organization
+GO:0044447	0.99008965219911	0.0407740143203419	2	47	axoneme part	CC	0.9999999999	0.9999999999	CC axoneme part
+GO:0050804	0.985695390156945	0.0409508740858302	4	66	modulation of chemical synaptic transmission	BP	0.9999999999	0.9999999999	BP modulation of chemical synaptic transmission
+GO:1902589	0.97243608475117	0.0412987672945529	32	288	NA	NA	0.9999999999	0.9999999999	none
+GO:0042221	0.97105887143988	0.0414096350189978	41	378	response to chemical	BP	0.9999999999	0.9999999999	BP response to chemical
+GO:0005774	0.987076937016593	0.0424688854796872	3	53	vacuolar membrane	CC	0.9999999999	0.9999999999	CC vacuolar membrane
+GO:0005765	0.989633960742379	0.0426254940455466	2	42	lysosomal membrane	CC	0.9999999999	0.9999999999	CC lysosomal membrane
+GO:0098852	0.989633960742379	0.0426254940455466	2	42	lytic vacuole membrane	CC	0.9999999999	0.9999999999	CC lytic vacuole membrane
+GO:0005739	0.971950575571082	0.0439008759184294	25	244	mitochondrion	CC	0.9999999999	0.9999999999	CC mitochondrion
+GO:0005759	0.989165894849246	0.0440539614644484	2	45	mitochondrial matrix	CC	0.9999999999	0.9999999999	CC mitochondrial matrix
+GO:0071241	0.993053945930239	0.0441879073501057	1	34	cellular response to inorganic substance	BP	0.9999999999	0.9999999999	BP cellular response to inorganic substance
+GO:2000026	0.969701311980756	0.0443953110278531	35	319	regulation of multicellular organismal development	BP	0.9999999999	0.9999999999	BP regulation of multicellular organismal development
+GO:0051188	0.993047541811426	0.0444917198110412	1	31	cofactor biosynthetic process	BP	0.9999999999	0.9999999999	BP cofactor biosynthetic process
+GO:1903362	0.989005157336177	0.0448507232401819	2	41	regulation of cellular protein catabolic process	BP	0.9999999999	0.9999999999	BP regulation of cellular protein catabolic process
+GO:0003779	0.976558700771598	0.0452386489811068	11	120	actin binding	MF	0.9999999999	0.9999999999	MF actin binding
+GO:0022402	0.971696366332286	0.0459308210305055	21	201	cell cycle process	BP	0.9999999999	0.9999999999	BP cell cycle process
+GO:0010646	0.96629379320274	0.0460526286038978	53	465	regulation of cell communication	BP	0.9999999999	0.9999999999	BP regulation of cell communication
+GO:0009062	1	0.0466458178845594	0	21	fatty acid catabolic process	BP	0.9999999999	0.9999999999	BP fatty acid catabolic process
+GO:0003777	0.985304257744027	0.0473419133965362	3	54	microtubule motor activity	MF	0.9999999999	0.9999999999	MF microtubule motor activity
+GO:0002521	0.992369173610655	0.0479972403379289	1	31	leukocyte differentiation	BP	0.9999999999	0.9999999999	BP leukocyte differentiation
+GO:0030695	0.987825907515232	0.0487689591394035	2	42	GTPase regulator activity	MF	0.9999999999	0.9999999999	MF GTPase regulator activity
+GO:0001822	0.992052006746742	0.0496123165743125	1	31	kidney development	BP	0.9999999999	0.9999999999	BP kidney development
