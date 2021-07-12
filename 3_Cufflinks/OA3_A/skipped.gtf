@@ -1,0 +1,2 @@
+NC_047567.1	Cufflinks	exon	36520712	37046968	0	+	.	gene_id "mask_1"; transcript_id "mask_id1/+";
+NC_047567.1	Cufflinks	exon	36520712	37046968	0	-	.	gene_id "mask_1"; transcript_id "mask_id1/-";
